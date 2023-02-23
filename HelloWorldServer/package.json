@@ -1,0 +1,9 @@
+{
+  "name": "hello-world-server",
+  "version": "0.0.0",
+  "description": "HelloWorldServer",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
